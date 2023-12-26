@@ -65,3 +65,10 @@ comando para instalar
 ```js
 ng add @angular/material
 ```
+
+Criação componente toobar
+
+```js
+https://material.angular.io/components/toolbar/overview
+```
+
