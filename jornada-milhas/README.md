@@ -34,5 +34,19 @@ y
   Less   [ http://lesscss.org    
 ```
 
+## Para abrir o projeto
 
+```js
+ng s 
+
+ou 
+
+ng server
+```
+
+## Criação do componente Header
+
+```js
+ng g c shared/header
+```
 
