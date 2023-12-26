@@ -50,3 +50,18 @@ ng server
 ng g c shared/header
 ```
 
+## Angular Material
+
+Tem muitos componentes já prontos
+
+Documentação
+
+```js
+material.angular.io
+```
+
+comando para instalar
+
+```js
+ng add @angular/material
+```
