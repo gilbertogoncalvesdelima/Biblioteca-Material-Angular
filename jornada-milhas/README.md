@@ -72,3 +72,18 @@ Criação componente toobar
 https://material.angular.io/components/toolbar/overview
 ```
 
+## API
+
+Para fazer funcionar a api
+
+```js
+npm run start:dev
+```
+
+Swagger 
+
+```js
+http://localhost:8080/api
+```
+
+
