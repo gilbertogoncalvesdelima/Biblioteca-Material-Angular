@@ -85,5 +85,15 @@ Swagger
 ```js
 http://localhost:8080/api
 ```
+## Configuracao build Angular
+
+```js
+http://angular.io/guide/build
+```
+Configuração de ambientes
+
+```js
+ng generate enviroments
+```
 
 
